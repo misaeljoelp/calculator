@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/misaeljoelp/calculator )
-- Live Site URL: [Github pages](https://misaeljoelp.github.io/calculator/)
+- Live Site URL: [Github pages](https://misaeljoelp.github.io/calculator/calculator.html)
 
 ## My process
 
